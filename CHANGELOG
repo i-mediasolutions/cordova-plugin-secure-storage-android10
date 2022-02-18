@@ -1,5 +1,10 @@
 Changelog
 =========
+6.0.7 - 2022-02-18
+------------------
+
+- Since the lib disappeared on npm, republished the lib
+
 6.0.5 - 2020-08-24
 ------------------
 
